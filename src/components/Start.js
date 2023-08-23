@@ -1,4 +1,5 @@
 import React from "react";
+import "./start.css";
 
 const Start = ({ startQuiz, showStart }) => {
   return (
@@ -12,7 +13,7 @@ const Start = ({ startQuiz, showStart }) => {
             <h1 className="fw-bold mb-4">Basic React JS Quiz</h1>
             <button
               onClick={startQuiz}
-              className="btn px-4 py-2 bg-light text-dark fw-bold btn-start"
+              className="btn px-4 py-2 text-dark fw-bold btnStart"
             >
               Start Quiz
             </button>

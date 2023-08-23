@@ -25,6 +25,7 @@ const Quiz = ({
             >
               <div className="d-flex justify-content-between gap-md-3">
                 <h5 className="mb-2 fs-normal lh-base">{question?.question}</h5>
+
                 <h5
                   style={{
                     color: "#60d600",

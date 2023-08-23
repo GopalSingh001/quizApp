@@ -30,14 +30,10 @@ h3 {
 }
 
 .btn-dark:hover {
-  background: #804d5c;
+  background: #82ac69;
 }
 
 .bg-primary,
 .btn-light {
   letter-spacing: 0.7px;
-}
-
-.btn-start:hover {
-  background: rgb(33, 92, 143);
 }
